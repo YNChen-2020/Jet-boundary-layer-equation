@@ -20,7 +20,7 @@ Before introducing the theory base, it is better to illustrate some examples
 ## Theory of the boundary layer equation
 This model is based on the paper published by Gersten in 1980, however, the model has been improved for the stratified ambience, which allows for various stratification types. Here is the brief introduction of the theory.
 
-
+![This is a schematic figure for buoyant heated jet](./figure/schematic boundary-layer equations-模型.jpg)
 
 
 
